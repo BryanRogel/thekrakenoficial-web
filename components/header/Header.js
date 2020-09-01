@@ -126,6 +126,7 @@ function Header() {
             .header .menu-icon .navicon:after {
             top: -5px;
             }
+            
             /* menu button */
             .header .menu-btn {
             display: none;
